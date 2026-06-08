@@ -1,6 +1,8 @@
 # IntroductionToFinancialMarket_Project
 AI Agent in Asset Management
 
+# Read Report link
+
 ### Data Source: <br />
 yfinance <br />
 https://ranaroussi.github.io/yfinance/reference/index.html <br />
