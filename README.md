@@ -2,6 +2,7 @@
 AI Agent in Asset Management
 
 # Read Report link
+Finance & Technical analysis.pdf
 
 ### Data Source: <br />
 yfinance <br />
